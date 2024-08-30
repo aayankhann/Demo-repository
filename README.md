@@ -1,4 +1,4 @@
 # Demo-repository
 This is my demo repository.
 <br>
-Author AAYAN KHAN
+Author - AAYAN KHAN
